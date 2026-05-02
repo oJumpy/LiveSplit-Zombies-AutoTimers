@@ -4,19 +4,42 @@
   A collection of custom Zombies Livesplit Scripts
 </p>
 
-<p align="center">
-  <span>
-    <big>
-      <b>
-        <a href="#black-ops-3">BO3</a> · 
-        <a href="#black-ops-1">BO1</a> · 
-        <a href="#infinite-warfare">IW</a> · 
-        <a href="#advanced-warfare">AW</a> · 
-        <a href="#ww2">WW2</a>
-      </b>
-    </big>
-  </span>
-</p>
+<table>
+  <tr>
+    <th width="180" align="center">BO3</th>
+    <th width="180" align="center">BO1</th>
+    <th width="180" align="center">IW</th>
+    <th width="180" align="center">AW</th>
+    <th width="180" align="center">WW2</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="#black-ops-3">
+        <img src="https://github.com/user-attachments/assets/f49232bd-7878-4ad6-bbb7-7d8a9c814a5a" width="160"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#black-ops-1">
+        <img src="https://github.com/user-attachments/assets/efdbe933-89e2-49f6-830e-a57d687f26be" width="160"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#infinite-warfare">
+        <img src="https://github.com/user-attachments/assets/placeholder"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#advanced-warfare">
+        <img src="https://github.com/user-attachments/assets/placeholder"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#ww2">
+        <img src="https://github.com/user-attachments/assets/placeholder"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h1 align="center" id="black-ops-3">Black Ops 3</h1>
 
