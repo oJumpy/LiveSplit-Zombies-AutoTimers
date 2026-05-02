@@ -31,7 +31,7 @@
     </td>
     <td align="center">
       <a href="#advanced-warfare">
-        <img src="https://github.com/user-attachments/assets/b489fa55-7df4-463a-9ab0-1c4c208d07d1" width="160"/>
+        <img src="https://github.com/user-attachments/assets/d739949a-0cc8-46d5-9050-d024e1705939" width="160"/>
       </a>
     </td>
     <td align="center">
@@ -75,7 +75,7 @@
 
 <p align="center">
   <a href="https://github.com/oJumpy/AW-S1-Zombies-AutoTimers">
-    <img src="https://github.com/user-attachments/assets/b489fa55-7df4-463a-9ab0-1c4c208d07d1" />
+    <img src="https://github.com/user-attachments/assets/d739949a-0cc8-46d5-9050-d024e1705939" />
   </a>
 </p>
 
@@ -95,6 +95,5 @@
     <img src="https://github.com/user-attachments/assets/c11bb076-813b-43b0-ba59-f1c885857235" />
   </a>
 </p>
-
 
 
