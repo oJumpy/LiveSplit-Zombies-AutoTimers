@@ -1,5 +1,5 @@
 <p align="center">
-  A collection of Zombies LiveSplit <code>.asl</code> scripts
+  A collection of Zombies LiveSplit <code>.asl</code> scripts<br>
 </p>
 
 <table>
@@ -112,6 +112,20 @@
 </tr>
 </table>
 
+<br>
 
+> [!TIP]
+> Check the individual pages for each game above.
+
+## How to Use
+
+1. Download and install LiveSplit: https://livesplit.org/downloads/
+
+
+2. Open LiveSplit
+
+3. Right click → Edit Layout  
+4. Click `+` button → Control → **Scriptable Auto Splitter**  
+5. Click `Browse...` and select the `.asl` file you downloaded  
 
 
