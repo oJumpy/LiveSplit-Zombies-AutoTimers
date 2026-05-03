@@ -87,27 +87,27 @@
     </a>
   </td>
   <td align="center">
-    <a href="REPLACE_WITH_BO1_FILE_LINK">
+    <a href="https://github.com/oJumpy/BO1-T5-Zombies-AutoTimers/releases/download/v1.1/BO1.Potato.Enhanced-oJumpy.v1.1.asl">
       <img src="https://github.com/user-attachments/assets/f8b3023a-a8bc-4724-9433-1c1932f0ad2a" />
     </a>
   </td>
   <td align="center">
-    <a href="REPLACE_WITH_IW_FILE_LINK">
+    <a href="https://github.com/oJumpy/IW7-Zombies-AutoTimers/releases/download/v1.5/Infinite-Warfare-Master.-.v1.5.asl">
       <img src="https://github.com/user-attachments/assets/6e8397f1-bc58-4792-bf4b-d3d536d51503" />
     </a>
   </td>
   <td align="center">
-    <a href="REPLACE_WITH_AW_FILE_LINK">
+    <a href="https://github.com/oJumpy/AW-S1-Zombies-AutoTimers/releases/download/v1.5/AW.v1.5.asl">
       <img src="https://github.com/user-attachments/assets/b22e4e4e-9bda-4fc4-b0c3-b074c07c9671" />
     </a>
   </td>
   <td align="center">
-    <a href="REPLACE_WITH_WW2_FILE_LINK">
+    <a href="https://github.com/oJumpy/WWII-S2-Zombies-AutoTimers/releases/download/v1.4/WWII-Master.-.v1.4.asl">
       <img src="https://github.com/user-attachments/assets/1fb4c817-dcb2-4d92-8dff-2ac237cb7a02" />
     </a>
   </td>
   <td align="center">
-    <a href="REPLACE_WITH_CW_FILE_LINK">
+    <a href="https://github.com/oJumpy/BOCW-T9-Zombies-AutoTimer/releases/download/v1.0/Cold.War-Master.v1.0.asl">
       <img src="https://github.com/user-attachments/assets/1b8f2f95-f555-452a-a89b-db8bc1d577f6" />
     </a>
   </td>
