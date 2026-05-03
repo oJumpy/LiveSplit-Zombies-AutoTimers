@@ -1,7 +1,5 @@
-<h1 align="center">Livesplit Timers</h1>
-
 <p align="center">
-  A collection of custom Zombies Livesplit Scripts
+  A collection of Zombies LiveSplit <code>.asl</code> scripts
 </p>
 
 <table>
