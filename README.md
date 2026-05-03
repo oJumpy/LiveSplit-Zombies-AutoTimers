@@ -6,12 +6,12 @@
 
 <table>
   <tr>
-    <th width="180" align="center">BO3</th>
-    <th width="180" align="center">BO1</th>
-    <th width="180" align="center">IW</th>
-    <th width="180" align="center">AW</th>
-    <th width="180" align="center">WW2</th>
-    <th width="180" align="center">CW</th>
+    <th width="180" align="center">Black Ops 3</th>
+    <th width="180" align="center">Black Ops 1</th>
+    <th width="180" align="center">Infinite Warfare</th>
+    <th width="180" align="center">Advanced Warfare</th>
+    <th width="180" align="center">World War 2</th>
+    <th width="180" align="center">Cold War</th>
   </tr>
   <tr>
     <td align="center">
@@ -93,26 +93,27 @@
   </td>
   <td align="center">
     <a href="REPLACE_WITH_IW_FILE_LINK">
-      <img src="https://github.com/user-attachments/assets/c7a39690-72c0-4e41-a5b6-15604ce24586" />
+      <img src="https://github.com/user-attachments/assets/6e8397f1-bc58-4792-bf4b-d3d536d51503" />
     </a>
   </td>
   <td align="center">
     <a href="REPLACE_WITH_AW_FILE_LINK">
-      <img src="https://img.shields.io/badge/DIRECT-DOWNLOAD-blue?style=for-the-badge" />
+      <img src="https://github.com/user-attachments/assets/b22e4e4e-9bda-4fc4-b0c3-b074c07c9671" />
     </a>
   </td>
   <td align="center">
     <a href="REPLACE_WITH_WW2_FILE_LINK">
-      <img src="https://img.shields.io/badge/DIRECT-DOWNLOAD-blue?style=for-the-badge" />
+      <img src="https://github.com/user-attachments/assets/1fb4c817-dcb2-4d92-8dff-2ac237cb7a02" />
     </a>
   </td>
   <td align="center">
     <a href="REPLACE_WITH_CW_FILE_LINK">
-      <img src="https://img.shields.io/badge/DIRECT-DOWNLOAD-blue?style=for-the-badge" />
+      <img src="https://github.com/user-attachments/assets/1b8f2f95-f555-452a-a89b-db8bc1d577f6" />
     </a>
   </td>
 </tr>
 </table>
+
 
 
 
