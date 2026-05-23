@@ -85,7 +85,7 @@
     </a>
   </td>
   <td align="center">
-    <a href="https://github.com/oJumpy/BO1-T5-Zombies-AutoTimers/releases/download/v1.1/BO1.Potato.Enhanced-oJumpy.v1.1.asl">
+    <a href="https://github.com/oJumpy/BO1-T5-Zombies-AutoTimers/releases/download/v1.2/BO1.Master.Potato-Jumpy.v1.2.asl">
       <img src="https://github.com/user-attachments/assets/f8b3023a-a8bc-4724-9433-1c1932f0ad2a" />
     </a>
   </td>
