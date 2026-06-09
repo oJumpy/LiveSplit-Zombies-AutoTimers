@@ -105,7 +105,7 @@
     </a>
   </td>
   <td align="center">
-    <a href="https://github.com/oJumpy/BOCW-T9-Zombies-AutoTimer/releases/download/v1.0/Cold.War-Master.v1.0.asl">
+    <a href="https://github.com/oJumpy/BOCW-T9-Zombies-AutoTimer/releases/download/v2.0/Cold.War-Master.v2.0.asl">
       <img src="https://github.com/user-attachments/assets/1b8f2f95-f555-452a-a89b-db8bc1d577f6" />
     </a>
   </td>
