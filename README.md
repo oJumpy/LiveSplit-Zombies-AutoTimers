@@ -80,7 +80,7 @@
 <!-- Direct download row -->
 <tr>
   <td align="center">
-    <a href="https://github.com/oJumpy/BOIII-T7-Zombies-AutoTimers/releases/download/v4.5/Black-Ops-3_v4.5.asl">
+    <a href="https://github.com/oJumpy/BOIII-T7-Zombies-AutoTimers/releases/download/v4.6/Black-Ops-3_v4.6.asl">
       <img src="https://github.com/user-attachments/assets/bffcf98e-5520-446d-bcc2-4137036ace04" />
     </a>
   </td>
