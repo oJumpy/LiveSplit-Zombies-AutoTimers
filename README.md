@@ -78,34 +78,35 @@
 </tr>
 
 <!-- Direct download row -->
+<!-- Direct download row -->
 <tr>
   <td align="center">
-    <a href="https://github.com/oJumpy/BOIII-T7-Zombies-AutoTimers/releases/download/v4.7/Black-Ops-3_v4.7.asl">
+    <a href="https://livesplit-zombies-autotimers-updater.ojumpy.workers.dev/bo3">
       <img src="https://github.com/user-attachments/assets/bffcf98e-5520-446d-bcc2-4137036ace04" />
     </a>
   </td>
   <td align="center">
-    <a href="https://github.com/oJumpy/BO1-T5-Zombies-AutoTimers/releases/download/v1.2/BO1.Master.Potato-Jumpy.v1.2.asl">
+    <a href="https://livesplit-zombies-autotimers-updater.ojumpy.workers.dev/bo1">
       <img src="https://github.com/user-attachments/assets/f8b3023a-a8bc-4724-9433-1c1932f0ad2a" />
     </a>
   </td>
   <td align="center">
-    <a href="https://github.com/oJumpy/IW7-Zombies-AutoTimers/releases/download/v1.5/Infinite-Warfare-Master.-.v1.5.asl">
+    <a href="https://livesplit-zombies-autotimers-updater.ojumpy.workers.dev/iw">
       <img src="https://github.com/user-attachments/assets/6e8397f1-bc58-4792-bf4b-d3d536d51503" />
     </a>
   </td>
   <td align="center">
-    <a href="https://github.com/oJumpy/AW-S1-Zombies-AutoTimers/releases/download/v1.5/AW.v1.5.asl">
+    <a href="https://livesplit-zombies-autotimers-updater.ojumpy.workers.dev/aw">
       <img src="https://github.com/user-attachments/assets/b22e4e4e-9bda-4fc4-b0c3-b074c07c9671" />
     </a>
   </td>
   <td align="center">
-    <a href="https://github.com/oJumpy/WWII-S2-Zombies-AutoTimers/releases/download/v1.4/WWII-Master.-.v1.4.asl">
+    <a href="https://livesplit-zombies-autotimers-updater.ojumpy.workers.dev/ww2">
       <img src="https://github.com/user-attachments/assets/1fb4c817-dcb2-4d92-8dff-2ac237cb7a02" />
     </a>
   </td>
   <td align="center">
-    <a href="https://github.com/oJumpy/BOCW-T9-Zombies-AutoTimer/releases/download/v2.0/Cold.War-Master.v2.0.asl">
+    <a href="https://livesplit-zombies-autotimers-updater.ojumpy.workers.dev/cw">
       <img src="https://github.com/user-attachments/assets/1b8f2f95-f555-452a-a89b-db8bc1d577f6" />
     </a>
   </td>
@@ -127,5 +128,3 @@
 3. Right click → Edit Layout  
 4. Click `+` button → Control → **Scriptable Auto Splitter**  
 5. Click `Browse...` and select the `.asl` file you downloaded  
-
-
